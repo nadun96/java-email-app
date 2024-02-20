@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+E:\Portfolio\UDEMY\Practice Java By Building Projects\2 Email Application\email app\.metadata\.plugins\org.eclipse.jdt.core
+777996110.index
+1865797976.index
+273681811.index

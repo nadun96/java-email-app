@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Inline local variable &apos;emailapp.Email.setDepartment().in&apos; in &apos;emailapp.Email.setDepartment()&apos;&#x0D;&#x0A;- Original project: &apos;emailapp&apos;&#x0D;&#x0A;- Original element: &apos;emailapp.Email.setDepartment().in&apos;" description="Inline local variable &apos;in&apos;" id="org.eclipse.jdt.ui.inline.temp" input="/src&lt;emailapp{Email.java" selection="1321 27" stamp="1708411406019" version="1.0"/>
+</session>
